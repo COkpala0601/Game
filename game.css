@@ -1,0 +1,13 @@
+#container{
+height: 750;
+width: 750;
+outline: 3px blue;
+position:relative;
+}
+#guy{ 
+position:absolute;
+height: 50;
+width: 50;
+outline: 4px darkgreen;
+background-color: lime;
+}
